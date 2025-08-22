@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grievance Submitted</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>✅Submitted!</h1>
+    </header>
+
+    <main>
+        <p>Thank you for sharing your concern. Our team will review and respond at the earliest .</p>
+        <a href="index.html">Submit Another</a>
+    </main>
+</body>
+</html>
